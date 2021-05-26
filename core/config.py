@@ -1,0 +1,10 @@
+TELEGRAM_TOKEN = "1741556337:AAFEghx_L7Wk__ojtEA4S-TgJ4uJkmfsmq0"
+REGEXP_YOUTUBE = r'(https?://)?(www\.)?youtube\.(com|nl)/watch\?v=([-\w]+)'
+API_KEY_YOUTUBE = "AIzaSyAjYNmV_eT9V-V9VVapD_EBWAVVKBV7NMg"
+PATH_GRAPHICS = '../../graphics/'
+COUNT_COMMENTS = None
+MONGO_DB = "mood_db"
+MONGO_CONNECTION_URL = "mongodb+srv://{0}:{1}@clusteryoutube.ngjfv.mongodb.net/{2}?retryWrites=true&w=majority"
+MONGO_LOGIN = 'daria'
+MONGO_PASSWORD = 'noleta56'
+TIMEOUT_MOOD = 5
